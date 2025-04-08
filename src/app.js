@@ -30,6 +30,4 @@ window.onload = function () {
       }
     }
   }
-
-
-};
+}; //removed whitespace between brackets ----> project revision
